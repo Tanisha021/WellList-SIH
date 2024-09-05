@@ -1,0 +1,2 @@
+npm install @react-google-maps/api
+npm install react-places-autocomplete
